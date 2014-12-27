@@ -2,7 +2,7 @@
 @import url("reset.css");
 /*------------------------ GLOBAL STYLES ------------------------*/
 body {
-background: #000 url(../img/header.jpg) no-repeat top center;
+background: #030303 url(../img/header.jpg) no-repeat top center;
 color:#fff;
 font-family:Helvetica, Arial, sans-serif;
 font-size:14px;
