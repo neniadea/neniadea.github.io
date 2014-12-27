@@ -28,6 +28,11 @@ color:#A99781;
 text-decoration:none;
 }
 /*------------------------ MAIN PAGE LAYOUT ------------------------*/
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
 #logo {
 width:1920px;
 margin:0 auto;
