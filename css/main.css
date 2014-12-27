@@ -37,6 +37,12 @@ img.center {
 width:1920px;
 margin:0 auto;
 }
+#youtube{
+width:720px;
+margin-left: auto;
+margin-right: auto;
+padding:20px;
+}
 #container {
 width:720px;
 margin-left: auto;
