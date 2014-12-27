@@ -27,13 +27,9 @@ a {
 color:#A99781;
 text-decoration:none;
 }
-/*------------------------ STORE PAGE LAYOUT ------------------------*/
-#store {
-background-color:#fff;
-}
 /*------------------------ MAIN PAGE LAYOUT ------------------------*/
 #logo {
-width:400px;
+width:100px;
 margin:0 auto;
 }
 #container {
