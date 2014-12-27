@@ -27,18 +27,18 @@ text-decoration:none;
 }
 /*------------------------ MAIN PAGE LAYOUT ------------------------*/
 #logo {
-width:1920px;
+width:720px
 margin:0 auto;
 }
 #container {
-width:1920px;
+width:720px
 margin: 0 auto;
 background-color:#000000;
 padding:20px;
 }
 #footer {
 margin: 0 auto;
-width:1920px;
+width:720px;
 }
 #footer p {
 font-size:9px;
