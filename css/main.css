@@ -1,0 +1,48 @@
+/*------------------------ CSS RESET ------------------------*/
+@import url("reset.css");
+/*------------------------ GLOBAL STYLES ------------------------*/
+body {
+background: #000 url(../img/header.jpg) no-repeat top center;
+color:#fff;
+font-family:Helvetica, Arial, sans-serif;
+font-size:14px;
+padding-top:30px;
+}
+h1, h2 {
+font-family: Helvetica, Arial, sans-serif;
+font-weight:bold;
+padding:15px 0;
+text-transform:uppercase;
+letter-spacing:-1px;
+}
+h1 {font-size:36px;}
+h2 {font-size:26px;}
+p {
+padding: 5px 0;
+font-size:14px;
+}
+a {
+color:#A99781;
+text-decoration:none;
+}
+/*------------------------ MAIN PAGE LAYOUT ------------------------*/
+#logo {
+width:1920px;
+margin:0 auto;
+}
+#container {
+width:1920px;
+margin: 0 auto;
+background-color:#000000;
+padding:20px;
+}
+#footer {
+margin: 0 auto;
+width:1920px;
+border-top: 1px #161616 solid;
+}
+#footer p {
+font-size:9px;
+}
+.cornercurve {}
+/*------------------------ USEFUL CLASSES ------------------------*/
