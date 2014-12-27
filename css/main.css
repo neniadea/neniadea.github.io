@@ -4,13 +4,15 @@
 body {
 background: #030303 url(../img/header.jpg) no-repeat top center;
 color:#fff;
+line-height:1.5em;
 font-family:Helvetica, Arial, sans-serif;
-font-size:14px;
-padding-top:30px;
+font-size:12px;
+padding-top:60px;
 }
 h1, h2 {
 font-family: Helvetica, Arial, sans-serif;
 font-weight:bold;
+line-height:1.3em;
 padding:15px 0;
 text-transform:uppercase;
 letter-spacing:-1px;
@@ -25,13 +27,17 @@ a {
 color:#A99781;
 text-decoration:none;
 }
+/*------------------------ STORE PAGE LAYOUT ------------------------*/
+#store {
+background-color:#fff;
+}
 /*------------------------ MAIN PAGE LAYOUT ------------------------*/
 #logo {
-width:720px
+width:720px;
 margin:0 auto;
 }
 #container {
-width:720px
+width:720px;
 margin: 0 auto;
 background-color:#030303;
 padding:20px;
